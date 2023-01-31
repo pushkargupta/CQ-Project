@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    
+        
+    <labels>
+        <fullName>CQPG_CONTACT</fullName>
+        <categories>CQ UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CQUI Form</shortDescription>
+        <value>Contact</value>
+    </labels>
+
+    <labels>
+        <fullName>CQPG_DESCRIPTION</fullName>
+        <categories>CQ UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CQUI Form</shortDescription>
+        <value>Description</value>
+    </labels>
+        
+    
+        
+    <labels>
+        <fullName>CQPG_INFORMATION</fullName>
+        <categories>CQ UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CQUI Form</shortDescription>
+        <value>Information</value>
+    </labels>
+        
+    
+        
+    <labels>
+        <fullName>CQPG_ADDITIONAL_INFORMATION</fullName>
+        <categories>CQ UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CQUI Form</shortDescription>
+        <value>Additional Information</value>
+    </labels>
+        
+    
+        
+    <labels>
+        <fullName>CQPG_PATIENT_INFORMATION</fullName>
+        <categories>CQ UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CQUI Form</shortDescription>
+        <value>Patient Information</value>
+    </labels>
+        
+    
+        
+    <labels>
+        <fullName>CQPG_CUSTOMER</fullName>
+        <categories>CQ UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CQUI Form</shortDescription>
+        <value>Customer</value>
+    </labels>
+        
+    
+        
+    <labels>
+        <fullName>CQPG_REPORTING_SITE</fullName>
+        <categories>CQ UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CQUI Form</shortDescription>
+        <value>Reporting Site</value>
+    </labels>
+        
+    
+        
+    <labels>
+        <fullName>CQPG_PRODUCT</fullName>
+        <categories>CQ UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CQUI Form</shortDescription>
+        <value>Product</value>
+    </labels>
+        
+    
+        
+    <labels>
+        <fullName>CQPG_MANUFACTURING_INFORMATION</fullName>
+        <categories>CQ UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CQUI Form</shortDescription>
+        <value>Manufacturing Information</value>
+    </labels>
+        
+    
+        
+    <labels>
+        <fullName>CQPG_RETURNEVALUATION</fullName>
+        <categories>CQ UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CQUI Form</shortDescription>
+        <value>Return/Evaluation</value>
+    </labels>
+        
+    <labels>
+        <fullName>CQPG_RETURN</fullName>
+        <categories>CQ UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CQUI Form</shortDescription>
+        <value>Return</value>
+    </labels>
+        
+    <labels>
+        <fullName>CQPG_REGULATORY</fullName>
+        <categories>CQ UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CQUI Form</shortDescription>
+        <value>Regulatory</value>
+    </labels>
+        
+    
+        
+    <labels>
+        <fullName>CQPG_CLOSURE</fullName>
+        <categories>CQ UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CQUI Form</shortDescription>
+        <value>Closure</value>
+    </labels>
+        
+    
+        
+    <labels>
+        <fullName>CQPG_SYSTEM_INFORMATION</fullName>
+        <categories>CQ UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CQUI Form</shortDescription>
+        <value>System Information</value>
+    </labels>
+        
+    
+        
+    <labels>
+        <fullName>CQPG_CUSTOM_LINKS</fullName>
+        <categories>CQ UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CQUI Form</shortDescription>
+        <value>Custom Links</value>
+    </labels>
+        
+    
+
+    
+</CustomLabels>
